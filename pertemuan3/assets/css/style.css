@@ -1,0 +1,15 @@
+body {
+    font-family:'Lucida Console', monospace;
+    background: #2A7B9B;
+    background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 61%, rgba(179, 212, 103, 1) 80%, rgba(190, 214, 99, 1) 84%, rgba(237, 221, 83, 1) 100%);
+}
+
+h1 {
+    text-align: center;
+    color: rgba(0, 0, 0, 0.812);
+}
+
+btn-klik {
+    background-color: #2A7B9B;
+    color: #fff;
+}
